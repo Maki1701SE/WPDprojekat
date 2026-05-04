@@ -23,7 +23,7 @@ Ovo je CRUD web aplikacija za upravljanje bibliotekom razvijena u Laravel framew
    git clone https://github.com/Maki1701SE/WPDprojekat.git
 
 2. Ući u folder:
-   cd biblioteka-laravel
+   cd WPDprojekat
 
 3. Instalirati zavisnosti:
    composer install
@@ -38,7 +38,7 @@ Ovo je CRUD web aplikacija za upravljanje bibliotekom razvijena u Laravel framew
 ## Baza podataka
 
 Baza se nalazi u folderu:
-database/dump/biblioteka.sql
+database/dump/wpdprojekat.sql
 
 Potrebno je:
 - Kreirati bazu u phpMyAdmin
